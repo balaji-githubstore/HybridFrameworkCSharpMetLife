@@ -1,0 +1,6 @@
+{
+  "browser": "ch",
+  "url": "https://www.medibuddy.in/",
+  "connectionstringdb": "Data Source=COMPUTER\\PIPETTEX;Initial Catalog=openemr;User ID=sa;Password=123456;Integrated Security=true",
+  "driver": "C:\\Components"
+}

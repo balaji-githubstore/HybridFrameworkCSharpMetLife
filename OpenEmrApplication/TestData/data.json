@@ -1,0 +1,6 @@
+{
+  "browser": "ff",
+  "url": "https://demo.openemr.io/b/openemr",
+  "connectionstringdb": "Data Source=COMPUTER\\PIPETTEX;Initial Catalog=openemr;User ID=sa;Password=123456;Integrated Security=true"
+
+}
